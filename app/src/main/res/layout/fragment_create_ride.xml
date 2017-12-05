@@ -1,0 +1,331 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_create_ride"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteX="8dp"
+    tools:layout_editor_absoluteY="8dp">
+
+<android.support.constraint.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indagon.kimppakyyti.fragment.CreateRideFragment"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/from"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/start_location_search"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:hint="@string/start_location_hint"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView13"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toLeftOf="@+id/start_location_favourite"
+        android:layout_marginRight="8dp" />
+
+    <ImageView
+        android:id="@+id/start_location_favourite"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/favourites"
+        android:src="@android:drawable/btn_star_big_off"
+        android:visibility="gone"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/start_location_search" />
+
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/to"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/start_location_search" />
+
+
+    <EditText
+        android:id="@+id/end_location_search"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:focusable="false"
+        android:hint="@string/end_location_hint"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12"
+        app:layout_constraintRight_toLeftOf="@+id/end_location_favourite"
+        android:layout_marginRight="8dp" />
+
+    <ImageView
+        android:id="@+id/end_location_favourite"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/favourites"
+        android:src="@android:drawable/btn_star_big_off"
+        android:visibility="gone"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/end_location_search" />
+
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="@string/when"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/end_location_search"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="8dp" />
+
+
+    <TextView
+        android:id="@+id/dateText"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/date_format"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/timeText" />
+
+
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="wrap_content"
+        android:layout_height="27dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="7dp"
+        android:text="@string/time_format"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@+id/dateText"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/passenger"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timeText"
+        android:layout_marginStart="16dp" />
+
+    <Spinner
+        android:id="@+id/total_passengers"
+        android:layout_width="92dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/initial_passengers"
+        android:layout_marginStart="8dp"
+        app:layout_constraintLeft_toRightOf="@+id/textView9"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textView9" />
+
+    <Spinner
+        android:id="@+id/initial_passengers"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/textView2"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="@+id/textView2"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintTop_toTopOf="@+id/total_passengers" />
+
+
+    <Switch
+        android:id="@+id/repeatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/repeat"
+        android:visibility="visible"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/total_passengers" />
+
+    <LinearLayout
+        android:id="@+id/day_button_container"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/repeatButton">
+
+        <ToggleButton
+            android:id="@+id/mondayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/monday"
+            android:textOn="@string/monday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/repeatButton" />
+
+        <ToggleButton
+            android:id="@+id/tuesdayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/tuesday"
+            android:textOn="@string/tuesday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toRightOf="@+id/mondayButton"
+            app:layout_constraintTop_toTopOf="@+id/mondayButton" />
+
+        <ToggleButton
+            android:id="@+id/wednesdayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/wednesday"
+            android:textOn="@string/wednesday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toRightOf="@+id/tuesdayButton"
+            app:layout_constraintTop_toTopOf="@+id/tuesdayButton" />
+
+        <ToggleButton
+            android:id="@+id/thursdayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/thursday"
+            android:textOn="@string/thursday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toRightOf="@+id/wednesdayButton"
+            app:layout_constraintTop_toTopOf="@+id/wednesdayButton" />
+
+        <ToggleButton
+            android:id="@+id/fridayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/friday"
+            android:textOn="@string/friday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/thursdayButton"
+            app:layout_constraintLeft_toRightOf="@+id/thursdayButton"
+            app:layout_constraintTop_toTopOf="@+id/thursdayButton" />
+
+        <ToggleButton
+            android:id="@+id/saturdayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/saturday"
+            android:textOn="@string/saturday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toRightOf="@+id/fridayButton"
+            app:layout_constraintTop_toTopOf="@+id/fridayButton" />
+
+        <ToggleButton
+            android:id="@+id/sundayButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ToggleButton"
+            android:textOff="@string/sunday"
+            android:textOn="@string/sunday"
+            android:textSize="12sp"
+            android:visibility="visible"
+            app:layout_constraintLeft_toRightOf="@+id/saturdayButton"
+            app:layout_constraintTop_toTopOf="@+id/saturdayButton" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/create_ride"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:singleLine="false"
+        android:text="@string/create_ride"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
+        app:layout_constraintTop_toBottomOf="@+id/day_button_container"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="16dp" />
+
+
+</android.support.constraint.ConstraintLayout>
+</ScrollView>

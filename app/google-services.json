@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "729655092211",
+    "firebase_url": "https://fir-kimppakyyti.firebaseio.com",
+    "project_id": "firebase-kimppakyyti",
+    "storage_bucket": "firebase-kimppakyyti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729655092211:android:b8d24b7f1939a843",
+        "android_client_info": {
+          "package_name": "com.indagon.kimppakyyti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729655092211-kcv2514sd84vh3hm6subpvuigecuhbor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indagon.kimppakyyti",
+            "certificate_hash": "de9bc8deb013e062069b4688b494dd817f00eda4"
+          }
+        },
+        {
+          "client_id": "729655092211-2iak4ncgiqif3rac637oev61q5qo2omp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indagon.kimppakyyti",
+            "certificate_hash": "ca4b7b7d67efdd2fe5cfd7c265333cb2e4d38eaf"
+          }
+        },
+        {
+          "client_id": "729655092211-5ddj5uvg1ub7i58qvh3ik8768rb15vl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indagon.kimppakyyti",
+            "certificate_hash": "243ac9ae5c661b55342a84bc3c85d501783325be"
+          }
+        },
+        {
+          "client_id": "729655092211-bh216pkccbuaems8ga3i6voh9hmcrta0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1txYtL-cy-D30gcdgi20lCVrweo1FlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729655092211-bh216pkccbuaems8ga3i6voh9hmcrta0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

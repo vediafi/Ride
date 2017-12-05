@@ -1,0 +1,280 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/watchdog_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indagon.kimppakyyti.fragment.CreateWatchdogFragment">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/watchdog_constraint_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:id="@+id/day_button_container"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/weekdays_text">
+
+            <ToggleButton
+                android:id="@+id/mondayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/monday"
+                android:textOn="@string/monday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/repeatButton" />
+
+            <ToggleButton
+                android:id="@+id/tuesdayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/tuesday"
+                android:textOn="@string/tuesday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toRightOf="@+id/mondayButton"
+                app:layout_constraintTop_toTopOf="@+id/mondayButton" />
+
+            <ToggleButton
+                android:id="@+id/wednesdayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/wednesday"
+                android:textOn="@string/wednesday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toRightOf="@+id/tuesdayButton"
+                app:layout_constraintTop_toTopOf="@+id/tuesdayButton" />
+
+            <ToggleButton
+                android:id="@+id/thursdayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/thursday"
+                android:textOn="@string/thursday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toRightOf="@+id/wednesdayButton"
+                app:layout_constraintTop_toTopOf="@+id/wednesdayButton" />
+
+            <ToggleButton
+                android:id="@+id/fridayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/friday"
+                android:textOn="@string/friday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintBottom_toBottomOf="@+id/thursdayButton"
+                app:layout_constraintLeft_toRightOf="@+id/thursdayButton"
+                app:layout_constraintTop_toTopOf="@+id/thursdayButton" />
+
+            <ToggleButton
+                android:id="@+id/saturdayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/saturday"
+                android:textOn="@string/saturday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toRightOf="@+id/fridayButton"
+                app:layout_constraintTop_toTopOf="@+id/fridayButton" />
+
+            <ToggleButton
+                android:id="@+id/sundayButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="@string/sunday"
+                android:textOn="@string/sunday"
+                android:textSize="12sp"
+                android:visibility="visible"
+                app:layout_constraintLeft_toRightOf="@+id/saturdayButton"
+                app:layout_constraintTop_toTopOf="@+id/saturdayButton" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/from"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/start_location_search_watchdog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:focusable="false"
+            android:hint="@string/start_location_hint"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="7dp"
+            android:text="@string/to"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_location_search_watchdog" />
+
+        <EditText
+            android:id="@+id/end_location_search"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:focusable="false"
+            android:hint="@string/end_location_hint"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView11"
+            tools:layout_conversion_absoluteHeight="42dp"
+            tools:layout_conversion_absoluteWidth="344dp" />
+
+
+        <TextView
+            android:id="@+id/weekdays_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/weekdays"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_hour" />
+
+        <TextView
+            android:id="@+id/walking_distance_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/walking_distance"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/day_button_container" />
+
+        <Button
+            android:id="@+id/create_watchdog_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="32dp"
+            android:text="@string/add_watchdog"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/distance_spinner"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/delete_watchdog_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="0dp"
+            android:text="@string/remove_watchdog"
+            app:layout_constraintLeft_toRightOf="@+id/create_watchdog_button"
+            app:layout_constraintTop_toTopOf="@+id/create_watchdog_button" />
+
+        <TextView
+            android:id="@+id/hours_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="0dp"
+            android:text="@string/hour_end"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintLeft_toRightOf="@+id/start_hour_text"
+            app:layout_constraintTop_toTopOf="@+id/start_hour_text" />
+
+        <TextView
+            android:id="@+id/start_hour_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/hour_start"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/end_location_search" />
+
+        <Spinner
+            android:id="@+id/distance_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="7dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/walking_distance_text" />
+
+        <NumberPicker
+            android:id="@+id/start_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/start_hour_text" />
+
+        <NumberPicker
+            android:id="@+id/end_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintLeft_toLeftOf="@+id/hours_text"
+            app:layout_constraintTop_toBottomOf="@+id/hours_text" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/meters"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintLeft_toRightOf="@+id/distance_spinner"
+            app:layout_constraintTop_toTopOf="@+id/distance_spinner" />
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

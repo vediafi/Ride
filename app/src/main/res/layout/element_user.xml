@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:text="Teemu Teräväinen"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        app:layout_constraintLeft_toRightOf="@+id/owner_image"
+        app:layout_constraintTop_toTopOf="@+id/passenger_image"
+        android:layout_marginTop="3dp" />
+
+    <Button
+        android:id="@+id/kick_button"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/kick_user"
+        app:layout_constraintBaseline_toBaselineOf="@+id/username"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <ImageView
+        android:id="@+id/owner_image"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_directions_car_white_48dp" />
+
+    <ImageView
+        android:id="@+id/passenger_image"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_perm_identity_white_48dp" />
+</android.support.constraint.ConstraintLayout>

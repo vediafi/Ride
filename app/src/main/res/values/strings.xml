@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">Vedia Ride</string>
+    <string name="ride">Ride</string>
+    <string name="error_in_place_pick">Error picking place.</string>
+    <string name="error_in_autocomplete">Error in autocomplete.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_option_home">Home</string>
+    <string name="menu_option_payments">Payments</string>
+    <string name="menu_option_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="google_login_failed">Login to Google failed!</string>
+    <string name="google_login_failed_connect">Failed to connect to Google!</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="pin">Pincode</string>
+    <string name="pin_hint">Edit pincode</string>
+    <string name="pin_confirm_hint">Confirm pincode</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="fill_later">Fill later</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="phone_hint">Edit phone number</string>
+    <string name="email_not_valid">Invalid email address!</string>
+    <string name="phone_not_valid">Invalid phone number!</string>
+    <string name="action_find_ride">Find a Ride</string>
+    <string name="action_create_ride">Create a Ride</string>
+    <string name="settings_saved">Settings saved.</string>
+    <string name="updating_user_info">Updating user information..</string>
+    <string name="updating_user_info_failed">Updating user information failed.</string>
+    <string name="user_info_not_filled">Please update your profile first!</string>
+    <string name="login_expired">Session has expired. Please login again.</string>
+    <string name="updating_profile_picture">Updating profile picture..</string>
+    <string name="updating_profile_picture_failed">Updating profile picture failed.</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="when">When</string>
+    <string name="time_format">Hour:minute</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="initial_passengers">Initial passengers</string>
+    <string name="passenger">Passenger limit</string>
+    <string name="start_location_hint">Start location</string>
+    <string name="end_location_hint">End location</string>
+    <string name="location">Location</string>
+    <string name="favourites">Favourites</string>
+    <string name="create_ride">Create ride</string>
+    <string name="create_ride_failed">Creating the ride failed.</string>
+    <string name="ride_created">Ride created.</string>
+    <string name="ride_and_repeater_created">Ride and repeater created.</string>
+    <string name="creating_ride">Creating ride..</string>
+    <string name="getting_all_rides">Getting your rides..</string>
+    <string name="getting_all_rides_failed">Getting rides failed.</string>
+    <string name="repeat">Repeat on weekdays</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="find_ride">Find ride</string>
+    <string name="add_watchdog">Create watchdog</string>
+    <string name="creating_watchdog">Creating watchdog..</string>
+    <string name="creating_watchdog_failed">Creating watchdog failed.</string>
+    <string name="getting_all_payments">Getting payments..</string>
+    <string name="getting_all_payments_failed">Getting payments failed.</string>
+    <string name="updating_watchdog">Updating watchdog..</string>
+    <string name="updating_watchdog_failed">Updating watchdog failed.</string>
+    <string name="watchdog_created">Watchdog created!</string>
+    <string name="getting_all_watchdogs">Getting your watchdogs..</string>
+    <string name="getting_all_watchdogs_failed">Getting watchdogs failed.</string>
+    <string name="menu_option_add_watchdog">Create a watchdog</string>
+    <string name="watchdog_updated">Watchdog update.</string>
+    <string name="watchdog_removed">Watchdog removed</string>
+    <string name="edit_watchdog">Edit watchdog</string>
+    <string name="menu_option_find_ride">Find a ride</string>
+    <string name="menu_option_create_a_ride">Create a ride</string>
+    <string name="start_location_missing">Please select start location.</string>
+    <string name="end_location_missing">Please select end location.</string>
+    <string name="profile">My profile</string>>
+    <string name="searching_for_rides">Searching for rides..</string>>
+    <string name="searching_for_rides_failed">Search failed.</string>
+    <string name="profile_description">Description</string>>
+    <string name="profile_description_hint">Tell something about your travelling</string>
+    <string name="mark_as_paid">Clear</string>
+    <string name="my_debts">My debts</string>
+    <string name="debts_to_me">Debts to me</string>
+    <string name="my_route">My route</string>
+    <string name="my_route_length">Ride length</string>
+    <string name="my_route_cost">Approximate cost</string>
+    <string name="ride_status">Ride status</string>
+    <string name="participants">Participants</string>
+    <string name="leave_ride">Leave ride</string>
+    <string name="ongoing_rides">Ongoing rides</string>
+    <string name="upcoming_rides">Upcoming rides and drives</string>
+    <string name="total_distance">Total distance</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="start_location">Start Location</string>
+    <string name="end_location">End location</string>
+    <string name="my_stop">My stop</string>
+    <string name="route">Route</string>
+    <string name="server_login_failed">Login to Vedia Ride failed! Please try again later.</string>
+    <string name="menu_option_history">History</string>
+    <string name="welcome_text">Welcome to Vedia Ride!</string>
+    <string name="passengers_joining">Passenger count</string>
+    <string name="my_cost">My cost</string>
+    <string name="total_cost">Total cost</string>
+    <string name="route_length">Total length</string>
+    <string name="join_ride">Join ride</string>
+    <string name="cancel_ride">Cancel ride</string>
+    <string name="my_start">My start</string>
+    <string name="start_time">Start time</string>
+    <string name="arrival_time">Arrival time</string>
+    <string name="canceling_ride">Canceling ride..</string>
+    <string name="canceling_ride_failed">Canceling ride failed.</string>
+    <string name="leaving_ride">Leaving ride</string>
+    <string name="leaving_ride_failed">Leaving ride failed</string>
+    <string name="finalizing_ride">Finalizing ride..</string>
+    <string name="finalizing_ride_failed">Finalizing ride failed</string>
+    <string name="finalize_ride">Finalize ride</string>
+    <string name="search_results">Search results</string>
+    <string name="kicking_user_from_ride">Kicking user from ride..</string>
+    <string name="kicking_user_from_ride_failed">Kicking user from ride failed.</string>
+    <string name="getting_ride_info">Getting ride details..</string>
+    <string name="getting_ride_info_failed">Getting ride details failed.</string>>
+    <string name="joining_ride">Joining ride..</string>
+    <string name="joining_ride_failed">Joining ride failed.</string>
+    <string name="my_duration">Ride time</string>
+    <string name="total_duration">Total time</string>
+    <string name="my_rides">My rides</string>
+    <string name="watchdogs">Watchdogs</string>
+    <string name="removing_watchdog">Removing watchdog..</string>
+    <string name="removing_watchdog_failed">Removing watchdog failed.</string>
+    <string name="done_ride">Finish</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="walking_distance">Maximum walking distance</string>
+    <string name="hour_start">Start hour</string>
+    <string name="hour_end">End hour</string>
+    <string name="when_to_watch">Ride start time</string>
+    <string name="marking_ride_done">Finishing ride..</string>
+    <string name="marking_ride_done_failed">Finishing ride failed.</string>
+    <string name="remove_watchdog">Remove watchdog</string>
+    <string name="remove_watchdog_confirmation_message">Delete this watchdog permanently?</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="settle">settle</string>
+    <string name="amount">Amount</string>
+    <string name="receive_amount">Receive amount</string>
+    <string name="getting_all_repeaters">Getting your repeaters..</string>
+    <string name="getting_all_repeaters_failed">Getting repeaters failed.</string>
+    <string name="my_ride_status">My status</string>
+    <string name="repeaters">Repeaters</string>
+    <string name="removing_repeater">Removing repeater..</string>
+    <string name="not_owner_of_repeater">You are not the owner of this repeater.</string>
+    <string name="repeater_removed">Repeater removed.</string>
+    <string name="removing_repeater_failed">Removing repeater failed.</string>
+    <string name="my_watchdogs">My watchdogs</string>
+    <string name="my_repeaters">My repeaters</string>
+    <string name="kick_user_confirmation_message">Are you sure you want to kick user %s from this ride?</string>
+    <string name="cancel_ride_confirmation_message">Are you sure you want to cancel this ride?</string>
+    <string name="leave_ride_confirmation_message">Are you sure you want to leave this ride?</string>>
+    <string name="kicked_user_from_ride">Kicked user %s from ride.</string>
+    <string name="ride_not_found">Ride not found.</string>
+    <string name="ride_full">Ride if full.</string>
+    <string name="ride_cannot_be_modified">Ride cannot be modified.</string>
+    <string name="user_not_on_ride">User is not on ride.</string>
+    <string name="not_owner_of_ride">You are not the owner of this ride.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="new_route_enigible">Route has changed and new route is inegible.</string>
+    <string name="got_new_version_of_ride">Ride had changed. Updated.</string>
+    <string name="ride_marked_done">Ride has been finished.</string>
+    <string name="ride_has_not_started">Ride is still open. Cannot finish it.</string>
+    <string name="ride_has_started_cannot_leave">Ride has started. Cannot leave anymore.</string>
+    <string name="left_ride">Left ride.</string>
+    <string name="pick_start_place">Please pick a start place.</string>
+    <string name="pick_end_place">Please pick the end place.</string>
+    <string name="select_weekday">You must select at least one weekday!</string>
+    <string name="too_many_initial_passengers">Ride has to have free seats left.</string>
+    <string name="no_route_found">No route found.</string>
+    <string name="start_hour_greater_than_end_hour">Start hour cant be greater than end hour!</string>
+    <string name="no_search_results">No results were found.</string>
+    <string name="time_too_soon">Please select a time in the future.</string>
+    <string name="error_amount_precision">Please enter amount with cent precision.</string>
+    <string name="error_receive_too_much">You can\'t receive more than he owes you.</string>
+    <string name="error_receive_zero">Please enter a positive value.</string>
+    <string name="received_payment" formatted="false">Received %s€.</string>
+    <string name="receiving_payment_failed">Receiving payment failed.</string>
+    <string name="finding_route_failed">Finding route failed.</string>
+    <string name="logging_in">Logging in..</string>
+    <string name="ride_already_newest_version">Did not update as we already have the newest version of ride.</string>
+    <string name="google_play_services_not_available">Please download and install Google Play Services.</string>
+    <string name="remove_repeater">Delete</string>
+    <string name="remove_repeater_confirmation_message">Delete this repeater permanently?</string>
+    <string name="free_seats">Free seats</string>
+    <string name="kick_user">Kick</string>
+    <string name="meters">meters</string>
+    <string name="no_changes_detected">No changes detected.</string>
+    <string name="confirm_payment" formatted="false">Receive %s from %s?</string>
+    <string name="waypoints">Waypoints</string>
+    <string name="description_empty">Please tell something about your travelling habits in description.</string>
+    <string-array name="initial_passenger_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="total_passenger_count">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="joining_passenger_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="walking_distances">
+        <item>50</item>
+        <item>100</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+    </string-array>
+</resources>

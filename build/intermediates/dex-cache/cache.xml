@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/f670eb8f24b2d1433901fb4d3514ac261b43666a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f985f1979aa7cfdf682da32cb30e1761f1a40">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_ec4b556b425aad175fdeb8e808599d67066452f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/644d53c30b880db94e17f23a1f3f85e794dbcbef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_596d818ebfedd11632c36f7c1dfff1bdfdaf7da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/a284fd7a2871968f0f9fda46aa97295ed92f89c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd47a98a8f3d53220afca6f869f37c56c273c8d9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7979968d03032e4270b410df9f074083d4dfb44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/669dd5bea04a216a4e564f6345cad09aa87390e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_077d7bb04f93aa90aac23b0fba469a36952223de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/e2e9cc30eddaf685aa1f65a20e5425c23e8bb57b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88603d734296fa77a252c0199b57f4aba85ba277">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ad5432130ae51e0ea8f522f4fd736fcd61a38ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/gson-2.8.1_73e0d223e531b77f115584e57b56fa42138e7413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/e3a136547149ef8ecf6ef71e29ba22eadf28f233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="deffdc3b7ba352c6b726c7b0577c2d0af2e0b291">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_aebfc5868533d5b4f2a2147787e27748d9a170de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e8cdeb874aa5edc4fbae7ed24bbd29a03f025d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/caa52dbedd9150272db7860925752df0e7ba115b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20ca45a627196725dc1e086be60682e8adf0c569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_6a00b80c6cbd8ab5d39cc7333139da246a5214a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/fd1f67cc27d6585d9b1bab746df2fa18bc89bcb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_e34cd9feb15733dde12316282e49efa167625aa8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_76cec49780b35f99225f99d0250600eaa4941e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/a1562f04946b8fb5f1e090a924674dda672fe9bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77466056f2bc2f4ad036e3501af030ab4c9b363a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/b9feb08efd01933ffb0461fef38267d7f1e2b33a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_05f090e06d6976940892f14953c88f68f9f0cf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/463603904b55037ec5a3d3f360fc244c06e8357d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_bca9a9010c816f97eb8d1c8aabf6f54f7ff29789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/46eabef73a9ab77a9d49c1631e3af27dd48e5f8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_51a76db0e1db63e1cf63e67aadfbe747b5e5b235.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/92697aaae776af68dfbcea3352a426b054270b66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1fb737d72e295a54c677c0ab9aecfe3518e2ec6">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9157729f6859abca165a33e34ac9015d169cade5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/cf5b053d785d02a9cfca73f54a4bb9308adeecaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_013302fa84569afc99bf45815fc1f0c79c938255.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/aa8c3c2e8bd2ec4c0c56c75b7663ee758f8ea615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1db68842e3c00f234b1017a15691d113f0678195/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/0fd54efe67deea6b46abe9a3c629ee705b8990f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_69ff59bc6d0c5ba5e55a34c9942e60d026c02e1d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/e3a136547149ef8ecf6ef71e29ba22eadf28f233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="deffdc3b7ba352c6b726c7b0577c2d0af2e0b291">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aebfc5868533d5b4f2a2147787e27748d9a170de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/f37b04d2f4b27911199a849a5e3267d1a40c6a54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c0c3a9709adc7608860b0a9f65f661cd3ff4d07">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_281a444d74999d4c50e5c05ba51dc6294d4dc6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/24daa0072d23ff900b4f51ed41386574b627c438/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a530cee3b6bfd5f1831388c820986e9436e0bd3">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2951cc3870bd4211c2571f8a7cfa27311cb30871/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/845ee2e89b234160f202723ebe25972a3040956d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_f5712a1d87589e77d6a6522d5c3ac2f650424cb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/903cd07c3e1d6b6bd8b25de1ac7988d22340f0f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88057f3a854771907c50fe576c7b962fe8bd52f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/40b8cd9304b66b927441412fe7404aac5511463e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_1fed394344c29668f33287bbe0dcc80d6eb300cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/af12fbf37fa7c2f7315842bb87e6815a58eccaa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7103df9f8ca6e66946c35fe23ce655ee4044db86">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_f192da0c2a93488e44b69a76f8ceb9434bb4e161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/caa52dbedd9150272db7860925752df0e7ba115b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_20ca45a627196725dc1e086be60682e8adf0c569.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ee18587826bd103ca45a9f992882ccad97f0abe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/97316fd6d2dd0f6ec41601bdc3cdd69481e9c7d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_68dc28fd4f457e33b8c4118e69f6f8a9f2330956.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_843115cab5bd661c959e2c2c921f7aff22eab870/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/support-annotations-26.1.0_6a00b80c6cbd8ab5d39cc7333139da246a5214a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/a284fd7a2871968f0f9fda46aa97295ed92f89c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd47a98a8f3d53220afca6f869f37c56c273c8d9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_7979968d03032e4270b410df9f074083d4dfb44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/903cd07c3e1d6b6bd8b25de1ac7988d22340f0f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_88057f3a854771907c50fe576c7b962fe8bd52f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/3b9f6861e9c4b466d829b36c1d25044c82583058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_a71f03e06612c02d8f95f40322932b2ed51328ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/644d53c30b880db94e17f23a1f3f85e794dbcbef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_596d818ebfedd11632c36f7c1dfff1bdfdaf7da2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/6a328cb79fb3265631a16048a817a5f3e7fb84ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46f2b8b78503a1ff66df25eb2d8554a75fb01784/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/512af98b150c5a42ac11eb9a823bf1b15074516d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_f6681fc3719c22f611686564099c6fae1c367af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/9ed9866cdaf35c355861f5c42e3a4ccd64510863/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_076520eca13f0bf5ce197d92197611e555d64f77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/e3a136547149ef8ecf6ef71e29ba22eadf28f233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="deffdc3b7ba352c6b726c7b0577c2d0af2e0b291">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aebfc5868533d5b4f2a2147787e27748d9a170de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/46eabef73a9ab77a9d49c1631e3af27dd48e5f8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51a76db0e1db63e1cf63e67aadfbe747b5e5b235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/c581574ed4f7a2e1187660358b5c5849844a6d96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e97fc0058701252c8e20ecf586f9d54d09b28315/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/c0c01fcee911323c7192194b6d95e05b3178d570/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_cefea0e1a6a5166876fa1660fdf224110d25e167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/d29ca633f4de4811f465b137b9ac72ca9cead0f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_4ff0dee6c2a6024de04279fdf2e3f60869a72e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/1a41b4750792e8a8c087b8b898ef96dc84e64cc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed18fdd695456683717079e695c5683cdc042d89">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_3f21bc72b9b3b5c2e088c4f3b578dfe2374e5306.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/cf5b053d785d02a9cfca73f54a4bb9308adeecaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_013302fa84569afc99bf45815fc1f0c79c938255/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/92697aaae776af68dfbcea3352a426b054270b66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1fb737d72e295a54c677c0ab9aecfe3518e2ec6">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_9157729f6859abca165a33e34ac9015d169cade5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/b9feb08efd01933ffb0461fef38267d7f1e2b33a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05f090e06d6976940892f14953c88f68f9f0cf32/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/24daa0072d23ff900b4f51ed41386574b627c438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a530cee3b6bfd5f1831388c820986e9436e0bd3">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_2951cc3870bd4211c2571f8a7cfa27311cb30871.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/208ed9d25954fd18c70420b731d6aeee70ab865e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f07548b078e25ad4260f69940e3f8c48ff1b5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_f38f1f47a39d28f31c572820733a16a85183b1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/512af98b150c5a42ac11eb9a823bf1b15074516d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6681fc3719c22f611686564099c6fae1c367af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/caa52dbedd9150272db7860925752df0e7ba115b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20ca45a627196725dc1e086be60682e8adf0c569/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/520d1a7052c3a07ab1bae642db04aea240d3a78d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_c1ed692e9668d93f7029aea53815326f5afe3a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/644d53c30b880db94e17f23a1f3f85e794dbcbef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_596d818ebfedd11632c36f7c1dfff1bdfdaf7da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/903cd07c3e1d6b6bd8b25de1ac7988d22340f0f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_88057f3a854771907c50fe576c7b962fe8bd52f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_ee18587826bd103ca45a9f992882ccad97f0abe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/46eabef73a9ab77a9d49c1631e3af27dd48e5f8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_51a76db0e1db63e1cf63e67aadfbe747b5e5b235.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/af5fd0e06cfe5bb356e0baabfffd7a45c9334608/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ae67819f55552efbf79dadc581d03f5c185e4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e8cdeb874aa5edc4fbae7ed24bbd29a03f025d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/088be5b94c72112cdcd491cea299308ef04279ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_7943e7e4f3042f4a03fe48a4a2c819ccf85f0021.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/92697aaae776af68dfbcea3352a426b054270b66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1fb737d72e295a54c677c0ab9aecfe3518e2ec6">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9157729f6859abca165a33e34ac9015d169cade5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/24daa0072d23ff900b4f51ed41386574b627c438/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a530cee3b6bfd5f1831388c820986e9436e0bd3">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2951cc3870bd4211c2571f8a7cfa27311cb30871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/cf5b053d785d02a9cfca73f54a4bb9308adeecaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_013302fa84569afc99bf45815fc1f0c79c938255/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/8cdf59b39d1939b09ffe574bbcfe99c16b0b68c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb366c8b72908e2afa66c66b0a3f1318265a473e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_8bfbc15852cf42d053e60960fd45845db9229d26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/a284fd7a2871968f0f9fda46aa97295ed92f89c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd47a98a8f3d53220afca6f869f37c56c273c8d9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7979968d03032e4270b410df9f074083d4dfb44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/b9feb08efd01933ffb0461fef38267d7f1e2b33a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_05f090e06d6976940892f14953c88f68f9f0cf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/6a328cb79fb3265631a16048a817a5f3e7fb84ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_46f2b8b78503a1ff66df25eb2d8554a75fb01784.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/903cd07c3e1d6b6bd8b25de1ac7988d22340f0f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88057f3a854771907c50fe576c7b962fe8bd52f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/520d1a7052c3a07ab1bae642db04aea240d3a78d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_c1ed692e9668d93f7029aea53815326f5afe3a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/c581574ed4f7a2e1187660358b5c5849844a6d96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_e97fc0058701252c8e20ecf586f9d54d09b28315.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/fd1f67cc27d6585d9b1bab746df2fa18bc89bcb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e34cd9feb15733dde12316282e49efa167625aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/0fd54efe67deea6b46abe9a3c629ee705b8990f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_69ff59bc6d0c5ba5e55a34c9942e60d026c02e1d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/1a41b4750792e8a8c087b8b898ef96dc84e64cc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed18fdd695456683717079e695c5683cdc042d89">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f21bc72b9b3b5c2e088c4f3b578dfe2374e5306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/c0c01fcee911323c7192194b6d95e05b3178d570/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cefea0e1a6a5166876fa1660fdf224110d25e167/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/92697aaae776af68dfbcea3352a426b054270b66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1fb737d72e295a54c677c0ab9aecfe3518e2ec6">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_9157729f6859abca165a33e34ac9015d169cade5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/f37b04d2f4b27911199a849a5e3267d1a40c6a54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c0c3a9709adc7608860b0a9f65f661cd3ff4d07">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_281a444d74999d4c50e5c05ba51dc6294d4dc6e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_843115cab5bd661c959e2c2c921f7aff22eab870/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/a22de7ed1e042c8cfa14aa35460a1842dde6264e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_8bca7d5071e657d4da3612ec8f3b9d9ba702b3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/845ee2e89b234160f202723ebe25972a3040956d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_f5712a1d87589e77d6a6522d5c3ac2f650424cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/672cf3d9fbd457b649a0df35f698218b862999d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_caac62e69f75c870a2fa1caca613cbb5d7140554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/a1562f04946b8fb5f1e090a924674dda672fe9bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_77466056f2bc2f4ad036e3501af030ab4c9b363a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/208ed9d25954fd18c70420b731d6aeee70ab865e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_5f07548b078e25ad4260f69940e3f8c48ff1b5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/common-1.0.0_f38f1f47a39d28f31c572820733a16a85183b1b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/343fb965fddfb514f4d463b8ebd6a46702826ca7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36294f92b656af04e8fe8641224047b4e8699886">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e01d5b23b664ebd56ef02c65d3b8b2301d1c91b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/d29ca633f4de4811f465b137b9ac72ca9cead0f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_4ff0dee6c2a6024de04279fdf2e3f60869a72e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/support-annotations-26.1.0_6a00b80c6cbd8ab5d39cc7333139da246a5214a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/9e126c2554db2fc185a156725ab67b562b3f7a26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_11fcefdbf36e872402a7f60afc41985c0e48385f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/c0c01fcee911323c7192194b6d95e05b3178d570/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_cefea0e1a6a5166876fa1660fdf224110d25e167.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/6a328cb79fb3265631a16048a817a5f3e7fb84ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46f2b8b78503a1ff66df25eb2d8554a75fb01784/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/512af98b150c5a42ac11eb9a823bf1b15074516d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_f6681fc3719c22f611686564099c6fae1c367af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/1a41b4750792e8a8c087b8b898ef96dc84e64cc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed18fdd695456683717079e695c5683cdc042d89">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_3f21bc72b9b3b5c2e088c4f3b578dfe2374e5306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/8cdf59b39d1939b09ffe574bbcfe99c16b0b68c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb366c8b72908e2afa66c66b0a3f1318265a473e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_8bfbc15852cf42d053e60960fd45845db9229d26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/e2e9cc30eddaf685aa1f65a20e5425c23e8bb57b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88603d734296fa77a252c0199b57f4aba85ba277">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ad5432130ae51e0ea8f522f4fd736fcd61a38ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/46eabef73a9ab77a9d49c1631e3af27dd48e5f8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51a76db0e1db63e1cf63e67aadfbe747b5e5b235/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/24daa0072d23ff900b4f51ed41386574b627c438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a530cee3b6bfd5f1831388c820986e9436e0bd3">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_2951cc3870bd4211c2571f8a7cfa27311cb30871.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_f38f1f47a39d28f31c572820733a16a85183b1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/cf5b053d785d02a9cfca73f54a4bb9308adeecaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_013302fa84569afc99bf45815fc1f0c79c938255.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/b9feb08efd01933ffb0461fef38267d7f1e2b33a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05f090e06d6976940892f14953c88f68f9f0cf32/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/026b6985b7012fc958a9bbf97a6788dd684430d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_ddbf2be6a97edffe8a636282271f92c8eabbc497.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.7.0_7a8b745bc10313caff993a0441872ad4ea27efb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/463603904b55037ec5a3d3f360fc244c06e8357d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_bca9a9010c816f97eb8d1c8aabf6f54f7ff29789.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/af5fd0e06cfe5bb356e0baabfffd7a45c9334608/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ae67819f55552efbf79dadc581d03f5c185e4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/343fb965fddfb514f4d463b8ebd6a46702826ca7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36294f92b656af04e8fe8641224047b4e8699886">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_e01d5b23b664ebd56ef02c65d3b8b2301d1c91b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/af12fbf37fa7c2f7315842bb87e6815a58eccaa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7103df9f8ca6e66946c35fe23ce655ee4044db86">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f192da0c2a93488e44b69a76f8ceb9434bb4e161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/208ed9d25954fd18c70420b731d6aeee70ab865e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f07548b078e25ad4260f69940e3f8c48ff1b5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/gson-2.8.1_73e0d223e531b77f115584e57b56fa42138e7413.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/f37b04d2f4b27911199a849a5e3267d1a40c6a54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c0c3a9709adc7608860b0a9f65f661cd3ff4d07">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_281a444d74999d4c50e5c05ba51dc6294d4dc6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/f670eb8f24b2d1433901fb4d3514ac261b43666a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f985f1979aa7cfdf682da32cb30e1761f1a40">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec4b556b425aad175fdeb8e808599d67066452f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.1_73e0d223e531b77f115584e57b56fa42138e7413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/8cdf59b39d1939b09ffe574bbcfe99c16b0b68c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb366c8b72908e2afa66c66b0a3f1318265a473e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bfbc15852cf42d053e60960fd45845db9229d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/a284fd7a2871968f0f9fda46aa97295ed92f89c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd47a98a8f3d53220afca6f869f37c56c273c8d9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_7979968d03032e4270b410df9f074083d4dfb44f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/520d1a7052c3a07ab1bae642db04aea240d3a78d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1ed692e9668d93f7029aea53815326f5afe3a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/caa52dbedd9150272db7860925752df0e7ba115b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_20ca45a627196725dc1e086be60682e8adf0c569.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/0fd54efe67deea6b46abe9a3c629ee705b8990f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69ff59bc6d0c5ba5e55a34c9942e60d026c02e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/e2e9cc30eddaf685aa1f65a20e5425c23e8bb57b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88603d734296fa77a252c0199b57f4aba85ba277">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_7ad5432130ae51e0ea8f522f4fd736fcd61a38ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/common-1.0.0_843115cab5bd661c959e2c2c921f7aff22eab870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/6a53235aa5b355bcbbf17c5dd8f12eca71aa98fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/classes_79f3cb3174a6976cddf798855961179349484424.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/845ee2e89b234160f202723ebe25972a3040956d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5712a1d87589e77d6a6522d5c3ac2f650424cb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/a1562f04946b8fb5f1e090a924674dda672fe9bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_77466056f2bc2f4ad036e3501af030ab4c9b363a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_6a00b80c6cbd8ab5d39cc7333139da246a5214a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_76cec49780b35f99225f99d0250600eaa4941e48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a9b320eeddc36a91826630346f541ef4f42be98">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd9d62b3fc2606131408585de82fe48eea39e751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/fd1f67cc27d6585d9b1bab746df2fa18bc89bcb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e34cd9feb15733dde12316282e49efa167625aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/a1562f04946b8fb5f1e090a924674dda672fe9bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77466056f2bc2f4ad036e3501af030ab4c9b363a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/af5fd0e06cfe5bb356e0baabfffd7a45c9334608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_2ae67819f55552efbf79dadc581d03f5c185e4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/343fb965fddfb514f4d463b8ebd6a46702826ca7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36294f92b656af04e8fe8641224047b4e8699886">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_e01d5b23b664ebd56ef02c65d3b8b2301d1c91b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.7.0_7a8b745bc10313caff993a0441872ad4ea27efb4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/463603904b55037ec5a3d3f360fc244c06e8357d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bca9a9010c816f97eb8d1c8aabf6f54f7ff29789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb46f6caff9d96e2aa372cddb56ad87d96d44753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/644d53c30b880db94e17f23a1f3f85e794dbcbef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_596d818ebfedd11632c36f7c1dfff1bdfdaf7da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/d29ca633f4de4811f465b137b9ac72ca9cead0f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ff0dee6c2a6024de04279fdf2e3f60869a72e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/520d1a7052c3a07ab1bae642db04aea240d3a78d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1ed692e9668d93f7029aea53815326f5afe3a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/6a328cb79fb3265631a16048a817a5f3e7fb84ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_46f2b8b78503a1ff66df25eb2d8554a75fb01784.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/8cdf59b39d1939b09ffe574bbcfe99c16b0b68c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb366c8b72908e2afa66c66b0a3f1318265a473e">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bfbc15852cf42d053e60960fd45845db9229d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/f37b04d2f4b27911199a849a5e3267d1a40c6a54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c0c3a9709adc7608860b0a9f65f661cd3ff4d07">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_281a444d74999d4c50e5c05ba51dc6294d4dc6e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/1a41b4750792e8a8c087b8b898ef96dc84e64cc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed18fdd695456683717079e695c5683cdc042d89">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f21bc72b9b3b5c2e088c4f3b578dfe2374e5306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/c0c01fcee911323c7192194b6d95e05b3178d570/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cefea0e1a6a5166876fa1660fdf224110d25e167/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb46f6caff9d96e2aa372cddb56ad87d96d44753/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/aa8c3c2e8bd2ec4c0c56c75b7663ee758f8ea615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_1db68842e3c00f234b1017a15691d113f0678195.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/845ee2e89b234160f202723ebe25972a3040956d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5712a1d87589e77d6a6522d5c3ac2f650424cb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/af12fbf37fa7c2f7315842bb87e6815a58eccaa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7103df9f8ca6e66946c35fe23ce655ee4044db86">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f192da0c2a93488e44b69a76f8ceb9434bb4e161/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/e3a136547149ef8ecf6ef71e29ba22eadf28f233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="deffdc3b7ba352c6b726c7b0577c2d0af2e0b291">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_aebfc5868533d5b4f2a2147787e27748d9a170de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/e2e9cc30eddaf685aa1f65a20e5425c23e8bb57b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88603d734296fa77a252c0199b57f4aba85ba277">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_7ad5432130ae51e0ea8f522f4fd736fcd61a38ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_76cec49780b35f99225f99d0250600eaa4941e48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/0fd54efe67deea6b46abe9a3c629ee705b8990f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69ff59bc6d0c5ba5e55a34c9942e60d026c02e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/d29ca633f4de4811f465b137b9ac72ca9cead0f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ff0dee6c2a6024de04279fdf2e3f60869a72e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/463603904b55037ec5a3d3f360fc244c06e8357d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bca9a9010c816f97eb8d1c8aabf6f54f7ff29789/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/common-1.0.0_f38f1f47a39d28f31c572820733a16a85183b1b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7916173a19687274a4a1dca7db4d6f1b68f1fdc2">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd9d62b3fc2606131408585de82fe48eea39e751/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/af5fd0e06cfe5bb356e0baabfffd7a45c9334608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_2ae67819f55552efbf79dadc581d03f5c185e4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/common-1.0.0_843115cab5bd661c959e2c2c921f7aff22eab870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/glide-3.7.0_e8cdeb874aa5edc4fbae7ed24bbd29a03f025d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/fd1f67cc27d6585d9b1bab746df2fa18bc89bcb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_e34cd9feb15733dde12316282e49efa167625aa8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joni/.android/build-cache/f670eb8f24b2d1433901fb4d3514ac261b43666a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf5f985f1979aa7cfdf682da32cb30e1761f1a40">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec4b556b425aad175fdeb8e808599d67066452f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/af12fbf37fa7c2f7315842bb87e6815a58eccaa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7103df9f8ca6e66946c35fe23ce655ee4044db86">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_f192da0c2a93488e44b69a76f8ceb9434bb4e161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.android/build-cache/208ed9d25954fd18c70420b731d6aeee70ab865e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/classes_5f07548b078e25ad4260f69940e3f8c48ff1b5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joni/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/joni/Documents/Indagon/code/KimppaKyyti/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.7.0_7a8b745bc10313caff993a0441872ad4ea27efb4.jar" />
+    </item>
+
+</items>
